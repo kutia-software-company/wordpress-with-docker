@@ -24,6 +24,10 @@ http://locahost:8000
 
 Inside src folder you can see wordpress contents here you can work your plugin or theme
 
+![Select Language](https://docs.docker.com/samples/images/wordpress-lang.png)
+
+![Setup](https://docs.docker.com/samples/images/wordpress-welcome.png)
+
 if you want to access in phpmyadmin:
 ```
 http://localhost:8181/
