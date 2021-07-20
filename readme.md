@@ -32,7 +32,7 @@ if you want to access in phpmyadmin:
 ```
 http://localhost:8181/
 ```
-username: wordpress
+username: wordpress <br>
 password: wordpress
 
 you can change all information in .env file
