@@ -8,11 +8,16 @@ This is an example of how you may give instructions on setting up your wordpress
 ```sh
 mkdir yourproject && cd yourproject
 ```
-2. Clone the repo on directory
+3. Clone the repo on directory
 ```sh
 git clone https://github.com/kutia-software-company/wordpress-with-docker.git .
 ```
-3. Run docker compose
+3. Copy from environment example to environment
+```sh 
+cp .env.example .env
+```
+
+4. Run docker compose
 ```sh
 docker-compose up -d --build
 ```
