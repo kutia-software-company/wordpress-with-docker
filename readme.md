@@ -8,7 +8,7 @@ This is an example of how you may give instructions on setting up your wordpress
 ```sh
 mkdir yourproject && cd yourproject
 ```
-3. Clone the repo on directory
+2. Clone the repo on directory
 ```sh
 git clone https://github.com/kutia-software-company/wordpress-with-docker.git .
 ```
